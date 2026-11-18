@@ -91,7 +91,7 @@ The PDF was uploaded to the Networkwalks **Hash Calculator** tool, which parses 
 
 
 
-![Hash extracted from locked PDF](hashcalculater.jpg)
+![](hashcalculater.jpg)
 
 
 
