@@ -91,7 +91,7 @@ The PDF was uploaded to the Networkwalks **Hash Calculator** tool, which parses 
 
 
 
-![Hash extracted from locked PDF](1000325570.jpg)
+![Hash extracted from locked PDF](hashcalculater.jpg)
 
 
 
@@ -111,7 +111,7 @@ The status bar confirms **100% (1/1: 1 cracked, 0 left)**.
 
 
 
-![John the Ripper (Johnny GUI) cracking the PDF hash](1000325572.jpg)
+![John the Ripper (Johnny GUI) cracking the PDF hash](passwordcrackedusingjonny.jpg)
 
 
 
@@ -127,7 +127,7 @@ A second password-protected PDF was checked using the Networkwalks **PDF Passwor
 
 
 
-![Password cracked successfully](1000325569.jpg)
+![Password cracked successfully](passwordcracked.jpg)
 
 
 
@@ -141,7 +141,7 @@ Unlocking the PDF revealed the flag for this module:
 
 
 
-![Flag captured](1000325571.jpg)
+![Flag captured](capturedflag.jpg)
 
 
 
