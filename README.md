@@ -181,18 +181,6 @@ Unlocking the PDF revealed the flag for this module:
 
 ---
 
-## 📁 Repository Contents
-
-| File | Description |
-|------|-------------|
-| `README.md` | This file |
-| `1000325570.jpg` | Hash Calculator extracting the crackable hash from the locked PDF |
-| `1000325572.jpg` | John the Ripper (Johnny GUI) cracking the hash — password `good-luck` |
-| `1000325569.jpg` | Online PDF Password Cracker result — password `password1` |
-| `1000325571.jpg` | Flag captured screen |
-
----
-
 ## 👤 Author
 
 <div align="center">
