@@ -198,7 +198,6 @@ Unlocking the PDF revealed the flag for this module:
 <div align="center">
 
 **Abhinav Sadanandan Nair**
-Computer Engineering Student · Pillai College of Engineering
 Cybersecurity & Ethical Hacking Internship · Networkwalks (Batch B084)
 
 ⭐ *If you found this useful, consider starring the repo!*
